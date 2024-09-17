@@ -1,0 +1,8 @@
+
+50 U.S. States Game
+In this interactive learning game, users are prompted to guess the names of all 50 U.S. states. Upon entering the correct state's name, the game marks the state's location on the map. The goal is to name all the states correctly.
+
+If the user is unable to find a state, or if they wish to exit the game, a CSV file is generated containing the names of the states that were missed. This feature allows users to review which states they couldn’t guess and gives them the chance to study those states.
+
+This project uses the Turtle graphics library to display the map and Pandas to handle data input and output, providing an educational yet fun way to improve U.S. geography knowledge.
+
